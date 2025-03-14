@@ -14,9 +14,6 @@ cd chat-bot
 You can interact with Nova via a command-line interface or integrate it into your application:
 
 ```sh
-python chat.py
-```
-```sh
 python main.py
 ````
 
