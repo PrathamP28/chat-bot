@@ -16,7 +16,3 @@ You can interact with Nova via a command-line interface or integrate it into you
 ```sh
 python main.py
 ````
-
-## Contact
-
-For questions or support, reach out to [your email or contact info].
