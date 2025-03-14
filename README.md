@@ -8,10 +8,14 @@ To install and run Nova, follow these steps:
 # Clone the repository
 https://github.com/PrathamP28/Nova.git
 cd chat-bot
+````
 ## Usage
 
 You can interact with Nova via a command-line interface or integrate it into your application:
 
+```sh
+python chat.py
+```
 ```sh
 python main.py
 ````
