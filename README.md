@@ -6,7 +6,7 @@ To install and run Nova, follow these steps:
 
 ````sh
 # Clone the repository
-https://github.com/PrathamP28/Nova.git
+https://github.com/PrathamP28/chat-bot.git
 cd chat-bot
 ````
 ## Usage
